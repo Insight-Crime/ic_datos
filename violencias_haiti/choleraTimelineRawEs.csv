@@ -1,18 +1,18 @@
 date,value,yearlyCases,dateText,description
 2010-10-20,0,185351,"20 de octubre de 2010",se reporta el primer caso de cólera
-2011-06-15,0,352033,2011,El brote alcanza un máximo de 352.000 casos sospechosos
-2012-01-01,0,101503,2012,101.503 casos sospechosos totales
-2013-01-01,0,58574,2013,58.574 casos sospechosos totales
-2014-01-01,0,27392,2014,27.392 casos sospechosos totales
-2015-01-01,0,36045,2015,36.045 casos sospechosos totales
+2011-06-15,0,352033,2011,"El brote alcanza un máximo de 352.000 casos sospechosos"
+2012-01-01,0,101503,2012,"101.503 casos sospechosos totales"
+2013-01-01,0,58574,2013,"58.574 casos sospechosos totales"
+2014-01-01,0,27392,2014,"27.392 casos sospechosos totales"
+2015-01-01,0,36045,2015,"36.045 casos sospechosos totales"
 2016-01-01,0,41421,2016,Los casos comienzan a disminuir de manera constante
-2017-01-01,0,13681,2017,13.681 casos sospechosos totales
-2018-01-01,0,3777,2018,3.777 casos sospechosos totales
+2017-01-01,0,13681,2017,"13.681 casos sospechosos totales"
+2018-01-01,0,3777,2018,"3.777 casos sospechosos totales"
 2019-01-01,0,720,2019,Los casos sospechosos de cólera disminuyen a 720 y hay 3 muertes en el año
 2020-01-01,,19,,
 2022-12-31,,25505,,
-2022-10-01,0,,"Octubre de 2022","Después de 3 años sin casos, comienza otro brote"
-2022-11-05,0,,"5 de noviembre de 2022",5 de noviembre de 2022: Haití tiene un pico de 474 casos sospechosos en un día
-2023-04-15,0,,"Abril de 2023","Los casos sospechosos disminuyen, con un promedio de menos de 100 por día"
+2022-10-01,0,,Octubre de 2022,"After 3 years of no cases, another outbreak begins"
+2022-11-05,0,,"5 de noviembre de 2022",Haití tiene un pico de 474 casos sospechosos en un día
+2023-04-15,0,,Abril de 2023,"Los casos sospechosos disminuyen, con un promedio de menos de 100 por día"
 2023-06-13,0,,"13 de junio de 2023","Llega una segunda ola, que alcanza un máximo de 360 casos en un solo día"
-2023-09-30,0,38988,"30 de septiembre de 2023",un total de 63.603 casos sospechosos habían afectado a Haití
+2023-09-30,0,38988,"30 de septiembre de 2023","un total de 63.603 casos sospechosos habían afectado a Haití"
